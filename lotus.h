@@ -31,7 +31,7 @@ www.navitia.io
 #pragma once
 
 // for PGRES_COMMAND_OK
-#include <postgresql/libpq-fe.h>
+#include <libpq-fe.h>
 
 #include <exception>
 #include <string>

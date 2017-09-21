@@ -30,7 +30,7 @@ www.navitia.io
 
 #include "lotus.h"
 
-#include <postgresql/libpq-fe.h>
+#include <libpq-fe.h>
 #include <boost/algorithm/string/join.hpp>
 #include <boost/algorithm/string/replace.hpp>
 
